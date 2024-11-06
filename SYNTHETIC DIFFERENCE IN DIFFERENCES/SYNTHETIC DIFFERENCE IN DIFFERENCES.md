@@ -1,4 +1,4 @@
-SYNTHETIC DIFFERENCE IN DIFFERENCES
+# SYNTHETIC DIFFERENCE IN DIFFERENCES
 Dmitry Arkhangelsky Susan Athey David A. Hirshberg Guido W. Imbens Stefan Wager Working Paper 25532 http://www.nber.org/papers/w25532 NATIONAL BUREAU OF ECONOMIC RESEARCH
 1050 Massachusetts Avenue Cambridge, MA 02138 February 2019, Revised July 2021 We are grateful for helpful comments and feedback from a co-editor and referees, as well as from Alberto Abadie, Avi Feller, Paul Goldsmith-Pinkham, Liyang Sun, Yiqing Xu, Yinchu Zhu, and seminar participants at several venues. This research was generously supported by ONR grant N00014-17-1-2131 and the Sloan Foundation. The R package for implementing the methods developed here is available at https://github.com/synth-inference/synthdid. The associated vignette is at https://synthinference. github.io/synthdid/. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.
 
