@@ -1,7 +1,6 @@
 # SYNTHETIC DIFFERENCE IN DIFFERENCES
 
-</center>Dmitry Arkhangelsky </center>
-
+<center>Dmitry Arkhangelsky </center>
 Susan Athey 
 
 David A. Hirshberg
