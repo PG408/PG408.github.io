@@ -1,0 +1,345 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "page": 2
+        },
+        {
+            "title": "An Application",
+            "level": 0,
+            "page": 5
+        },
+        {
+            "title": "Implementing SDID",
+            "level": 1,
+            "page": 5
+        },
+        {
+            "title": "The California Smoking Cessation Program",
+            "level": 1,
+            "page": 8
+        },
+        {
+            "title": "Placebo Studies",
+            "level": 0,
+            "page": 11
+        },
+        {
+            "title": "Current Population Survey Placebo Study",
+            "level": 1,
+            "page": 12
+        },
+        {
+            "title": "The Data Generating Process",
+            "level": 2,
+            "page": 13
+        },
+        {
+            "title": "Simulation Results",
+            "level": 2,
+            "page": 14
+        },
+        {
+            "title": "Penn World Table Placebo Study",
+            "level": 1,
+            "page": 17
+        },
+        {
+            "title": "Formal Results",
+            "level": 0,
+            "page": 18
+        },
+        {
+            "title": "Weighted Double-Differencing Estimators",
+            "level": 1,
+            "page": 20
+        },
+        {
+            "title": "Oracle and Adaptive Synthetic Control Weights",
+            "level": 1,
+            "page": 21
+        },
+        {
+            "title": "Asymptotic Properties",
+            "level": 1,
+            "page": 24
+        },
+        {
+            "title": "Large-Sample Inference",
+            "level": 0,
+            "page": 26
+        },
+        {
+            "title": "Related Work",
+            "level": 0,
+            "page": 31
+        },
+        {
+            "title": "Appendix",
+            "level": 0,
+            "page": 41
+        },
+        {
+            "title": "Placebo Study Details",
+            "level": 1,
+            "page": 41
+        },
+        {
+            "title": "Unit/time weights for California",
+            "level": 1,
+            "page": 44
+        },
+        {
+            "title": "Staggered Adoption",
+            "level": 0,
+            "page": 46
+        },
+        {
+            "title": "Formal Results",
+            "level": 0,
+            "page": 47
+        },
+        {
+            "title": "Abstract Setting",
+            "level": 1,
+            "page": 48
+        },
+        {
+            "title": "Concrete Setting",
+            "level": 1,
+            "page": 49
+        },
+        {
+            "title": "Theorem 1 in Condensed Form",
+            "level": 1,
+            "page": 50
+        },
+        {
+            "title": "Proof Details",
+            "level": 0,
+            "page": 54
+        },
+        {
+            "title": "Proof of Lemma 4",
+            "level": 1,
+            "page": 54
+        },
+        {
+            "title": "Proof of Lemma 5",
+            "level": 1,
+            "page": 55
+        },
+        {
+            "title": "Proof of Lemma 6",
+            "level": 1,
+            "page": 56
+        },
+        {
+            "title": "Proof of Corollary 7",
+            "level": 1,
+            "page": 61
+        },
+        {
+            "title": "Proof of Theorem 2",
+            "level": 0,
+            "page": 64
+        },
+        {
+            "title": "Bounding \"426B30D co\"526B30D ",
+            "level": 1,
+            "page": 69
+        },
+        {
+            "title": "Bounding \"426B30D pre,pre(co - co)\"526B30D ",
+            "level": 2,
+            "page": 69
+        }
+    ],
+    "pages": 70,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 14,
+        "equations": {
+            "successful_ocr": 119,
+            "unsuccessful_ocr": 31,
+            "equations": 150
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "ABSTRACT",
+            "level": 4,
+            "page": 1
+        },
+        {
+            "title": "1 Introduction",
+            "level": 1,
+            "page": 2
+        },
+        {
+            "title": "2 An Application",
+            "level": 1,
+            "page": 5
+        },
+        {
+            "title": "2.1 Implementing SDID",
+            "level": 3,
+            "page": 5
+        },
+        {
+            "title": "2.2 The California Smoking Cessation Program",
+            "level": 3,
+            "page": 8
+        },
+        {
+            "title": "3 Placebo Studies",
+            "level": 1,
+            "page": 11
+        },
+        {
+            "title": "3.1 Current Population Survey Placebo Study",
+            "level": 3,
+            "page": 12
+        },
+        {
+            "title": "3.1.1 The Data Generating Process",
+            "level": 4,
+            "page": 13
+        },
+        {
+            "title": "3.1.2 Simulation Results",
+            "level": 4,
+            "page": 14
+        },
+        {
+            "title": "3.2 Penn World Table Placebo Study",
+            "level": 3,
+            "page": 17
+        },
+        {
+            "title": "4 Formal Results",
+            "level": 1,
+            "page": 18
+        },
+        {
+            "title": "4.1 Weighted Double-Differencing Estimators",
+            "level": 3,
+            "page": 20
+        },
+        {
+            "title": "4.2 Oracle and Adaptive Synthetic Control Weights",
+            "level": 2,
+            "page": 21
+        },
+        {
+            "title": "4.3 Asymptotic Properties",
+            "level": 2,
+            "page": 24
+        },
+        {
+            "title": "5 Large-Sample Inference",
+            "level": 1,
+            "page": 26
+        },
+        {
+            "title": "6 Related Work",
+            "level": 1,
+            "page": 31
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "page": 34
+        },
+        {
+            "title": "7 Appendix",
+            "level": 1,
+            "page": 41
+        },
+        {
+            "title": "7.1 Placebo Study Details",
+            "level": 2,
+            "page": 41
+        },
+        {
+            "title": "43",
+            "level": 4,
+            "page": 43
+        },
+        {
+            "title": "45",
+            "level": 4,
+            "page": 45
+        },
+        {
+            "title": "8 Staggered Adoption",
+            "level": 1,
+            "page": 46
+        },
+        {
+            "title": "9 Formal Results",
+            "level": 1,
+            "page": 47
+        },
+        {
+            "title": "9.1 Abstract Setting",
+            "level": 2,
+            "page": 48
+        },
+        {
+            "title": "9.2 Concrete Setting",
+            "level": 3,
+            "page": 49
+        },
+        {
+            "title": "9.3 Theorem 1 in Condensed Form",
+            "level": 3,
+            "page": 50
+        },
+        {
+            "title": "10 Proof Details",
+            "level": 1,
+            "page": 54
+        },
+        {
+            "title": "10.1 Proof of Lemma 4",
+            "level": 3,
+            "page": 54
+        },
+        {
+            "title": "10.2 Proof of Lemma 5",
+            "level": 2,
+            "page": 55
+        },
+        {
+            "title": "10.3 Proof of Lemma 6",
+            "level": 3,
+            "page": 56
+        },
+        {
+            "title": "10.4 Proof of Corollary 7",
+            "level": 3,
+            "page": 61
+        },
+        {
+            "title": "11 Proof of Theorem 2",
+            "level": 1,
+            "page": 64
+        },
+        {
+            "title": "11.0.1 Bounding kωˆcok",
+            "level": 3,
+            "page": 69
+        }
+    ]
+}
